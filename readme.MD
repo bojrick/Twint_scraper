@@ -1,0 +1,1 @@
+bat_file_gen.py contains script which generate CLI comands for Twint API and collects Json files with specific file name
